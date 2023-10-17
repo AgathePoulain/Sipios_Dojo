@@ -14,32 +14,32 @@ export interface FoodItem {
 // values from: http://dieteplaisir.canalblog.com/archives/2012/05/18/24268064.html
 export const FOOD_ITEMS: Array<FoodItem> = [
   {
-    name: "Sushi",
+    name: "Sushi de Paris",
     kcal: 45,
     imageUrl: Sushi
   },
   {
-    name: "Maki",
+    name: "Maki riquiqui",
     kcal: 20,
     imageUrl: Maki
   },
   {
-    name: "California",
+    name: "California banana",
     kcal: 35,
     imageUrl: California
   },
   {
-    name: "Boeuf Fromage",
+    name: "Boeuf Fromage au nuage",
     kcal: 175,
     imageUrl: BeefCheese
   },
   {
-    name: "Soupe Miso",
+    name: "Soupe Miso sans eau",
     kcal: 50,
     imageUrl: Miso
   },
   {
-    name: "Viande",
+    name: "Viande des Andes",
     kcal: 130,
     imageUrl: Meat
   }
